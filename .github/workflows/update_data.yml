@@ -1,4 +1,4 @@
-name: Daily Stock Data Update
+name: Daily analysis by juche
 
 on:
   schedule:
