@@ -9,6 +9,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 아래 permissions 설정을 jobs 내부에 추가하세요
+    permissions:
+      contents: write  # 쓰기 권한 부여
 
     steps:
     - name: Checkout repository
