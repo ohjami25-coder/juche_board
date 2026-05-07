@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07 13:32:33",
+    "last_updated": "2026-05-07 08:18:22",
     "stocks": [
         {
             "symbol": "000080",
@@ -47,7 +47,7 @@
         },
         {
             "symbol": "000120",
-            "name": "CJ대한통",
+            "name": "CJ대한통운",
             "price": 99700,
             "supply": {
                 "individual": 21,
@@ -113,7 +113,7 @@
         },
         {
             "symbol": "000240",
-            "name": "한국앤컴퍼",
+            "name": "한국앤컴퍼니",
             "price": 24300,
             "supply": {
                 "individual": 22,
@@ -179,7 +179,7 @@
         },
         {
             "symbol": "000660",
-            "name": "SK하이닉",
+            "name": "SK하이닉스",
             "price": 1601000,
             "supply": {
                 "individual": 15,
@@ -311,7 +311,7 @@
         },
         {
             "symbol": "001430",
-            "name": "세아베스틸",
+            "name": "세아베스틸지주",
             "price": 71000,
             "supply": {
                 "individual": 16,
@@ -399,7 +399,7 @@
         },
         {
             "symbol": "001800",
-            "name": "오리온홀딩",
+            "name": "오리온홀딩스",
             "price": 24200,
             "supply": {
                 "individual": 10,
@@ -424,21 +424,21 @@
             "name": "아세아",
             "price": 270000,
             "supply": {
-                "individual": 7,
-                "foreign": 10,
-                "institution": 10,
-                "other": 29
+                "individual": 0,
+                "foreign": 2,
+                "institution": 1,
+                "other": 5
             },
             "consecutive": {
-                "individual": 3,
-                "foreign": 4,
-                "institution": 3,
-                "other": 24
+                "individual": 0,
+                "foreign": 1,
+                "institution": 1,
+                "other": 5
             },
             "returns": {
-                "R5": 1.89,
-                "R10": 2.86,
-                "R20": -2.53
+                "R5": 0.0,
+                "R10": 0.0,
+                "R20": 0.0
             }
         },
         {
@@ -446,26 +446,26 @@
             "name": "KCC",
             "price": 623000,
             "supply": {
-                "individual": 21,
-                "foreign": 27,
+                "individual": 4,
+                "foreign": 4,
                 "institution": 1,
-                "other": 13
+                "other": 2
             },
             "consecutive": {
-                "individual": 8,
-                "foreign": 13,
+                "individual": 3,
+                "foreign": 2,
                 "institution": 1,
-                "other": 4
+                "other": 1
             },
             "returns": {
-                "R5": 12.86,
-                "R10": 12.45,
-                "R20": 36.32
+                "R5": 0.0,
+                "R10": 0.0,
+                "R20": 0.0
             }
         },
         {
             "symbol": "002790",
-            "name": "아모레퍼시",
+            "name": "아모레퍼시픽홀딩스",
             "price": 27400,
             "supply": {
                 "individual": 20,
@@ -509,7 +509,7 @@
         },
         {
             "symbol": "003030",
-            "name": "세아제강지",
+            "name": "세아제강지주",
             "price": 220000,
             "supply": {
                 "individual": 13,
@@ -663,7 +663,7 @@
         },
         {
             "symbol": "003670",
-            "name": "포스코퓨처",
+            "name": "포스코퓨처엠",
             "price": 288500,
             "supply": {
                 "individual": 10,
@@ -685,7 +685,7 @@
         },
         {
             "symbol": "004000",
-            "name": "롯데정밀화",
+            "name": "롯데정밀화학",
             "price": 64800,
             "supply": {
                 "individual": 7,
@@ -795,7 +795,7 @@
         },
         {
             "symbol": "005250",
-            "name": "녹십자홀딩",
+            "name": "녹십자홀딩스",
             "price": 13570,
             "supply": {
                 "individual": 17,
@@ -883,7 +883,7 @@
         },
         {
             "symbol": "005490",
-            "name": "POSCO",
+            "name": "POSCO홀딩스",
             "price": 506000,
             "supply": {
                 "individual": 12,
@@ -905,7 +905,7 @@
         },
         {
             "symbol": "005830",
-            "name": "DB손해보",
+            "name": "DB손해보험",
             "price": 162000,
             "supply": {
                 "individual": 18,
@@ -971,7 +971,7 @@
         },
         {
             "symbol": "005940",
-            "name": "NH투자증",
+            "name": "NH투자증권",
             "price": 38450,
             "supply": {
                 "individual": 16,
@@ -1125,7 +1125,7 @@
         },
         {
             "symbol": "006800",
-            "name": "미래에셋증",
+            "name": "미래에셋증권",
             "price": 83800,
             "supply": {
                 "individual": 20,
@@ -1191,7 +1191,7 @@
         },
         {
             "symbol": "007340",
-            "name": "DN오토모",
+            "name": "DN오토모티브",
             "price": 49500,
             "supply": {
                 "individual": 11,
@@ -1235,7 +1235,7 @@
         },
         {
             "symbol": "007660",
-            "name": "이수페타시",
+            "name": "이수페타시스",
             "price": 151600,
             "supply": {
                 "individual": 20,
@@ -1301,7 +1301,7 @@
         },
         {
             "symbol": "008930",
-            "name": "한미사이언",
+            "name": "한미사이언스",
             "price": 36750,
             "supply": {
                 "individual": 21,
@@ -1367,7 +1367,7 @@
         },
         {
             "symbol": "009420",
-            "name": "한올바이오",
+            "name": "한올바이오파마",
             "price": 44950,
             "supply": {
                 "individual": 13,
@@ -1411,7 +1411,7 @@
         },
         {
             "symbol": "009540",
-            "name": "HD한국조",
+            "name": "HD한국조선해양",
             "price": 452500,
             "supply": {
                 "individual": 14,
@@ -1455,7 +1455,7 @@
         },
         {
             "symbol": "009970",
-            "name": "영원무역홀",
+            "name": "영원무역홀딩스",
             "price": 203000,
             "supply": {
                 "individual": 11,
@@ -1477,7 +1477,7 @@
         },
         {
             "symbol": "010060",
-            "name": "OCI홀딩",
+            "name": "OCI홀딩스",
             "price": 337500,
             "supply": {
                 "individual": 16,
@@ -1499,7 +1499,7 @@
         },
         {
             "symbol": "010120",
-            "name": "LS EL",
+            "name": "LS ELECTRIC",
             "price": 315500,
             "supply": {
                 "individual": 24,
@@ -1697,7 +1697,7 @@
         },
         {
             "symbol": "011780",
-            "name": "금호석유화",
+            "name": "금호석유화학",
             "price": 140100,
             "supply": {
                 "individual": 13,
@@ -1785,7 +1785,7 @@
         },
         {
             "symbol": "012450",
-            "name": "한화에어로",
+            "name": "한화에어로스페이스",
             "price": 1433000,
             "supply": {
                 "individual": 12,
@@ -1873,7 +1873,7 @@
         },
         {
             "symbol": "014820",
-            "name": "동원시스템",
+            "name": "동원시스템즈",
             "price": 26600,
             "supply": {
                 "individual": 20,
@@ -1983,7 +1983,7 @@
         },
         {
             "symbol": "017800",
-            "name": "현대엘리베",
+            "name": "현대엘리베이터",
             "price": 97000,
             "supply": {
                 "individual": 20,
@@ -2027,7 +2027,7 @@
         },
         {
             "symbol": "018260",
-            "name": "삼성에스디",
+            "name": "삼성에스디에스",
             "price": 170000,
             "supply": {
                 "individual": 22,
@@ -2093,7 +2093,7 @@
         },
         {
             "symbol": "020150",
-            "name": "롯데에너지",
+            "name": "롯데에너지머티",
             "price": 78500,
             "supply": {
                 "individual": 12,
@@ -2423,7 +2423,7 @@
         },
         {
             "symbol": "030520",
-            "name": "한글과컴퓨",
+            "name": "한글과컴퓨터",
             "price": 20500,
             "supply": {
                 "individual": 20,
@@ -2467,7 +2467,7 @@
         },
         {
             "symbol": "032500",
-            "name": "케이엠더블",
+            "name": "케이엠더블유",
             "price": 30750,
             "supply": {
                 "individual": 20,
@@ -2489,7 +2489,7 @@
         },
         {
             "symbol": "032640",
-            "name": "LG유플러",
+            "name": "LG유플러스",
             "price": 15400,
             "supply": {
                 "individual": 17,
@@ -2643,7 +2643,7 @@
         },
         {
             "symbol": "034020",
-            "name": "두산에너빌",
+            "name": "두산에너빌리티",
             "price": 127000,
             "supply": {
                 "individual": 14,
@@ -2665,7 +2665,7 @@
         },
         {
             "symbol": "034220",
-            "name": "LG디스플",
+            "name": "LG디스플레이",
             "price": 12760,
             "supply": {
                 "individual": 14,
@@ -2709,7 +2709,7 @@
         },
         {
             "symbol": "034310",
-            "name": "nice지",
+            "name": "nice지주",
             "price": 14120,
             "supply": {
                 "individual": 19,
@@ -2819,7 +2819,7 @@
         },
         {
             "symbol": "035760",
-            "name": "CJ EN",
+            "name": "CJ ENM",
             "price": 53000,
             "supply": {
                 "individual": 29,
@@ -2841,7 +2841,7 @@
         },
         {
             "symbol": "035900",
-            "name": "JYP E",
+            "name": "JYP Ent.",
             "price": 60700,
             "supply": {
                 "individual": 16,
@@ -2863,7 +2863,7 @@
         },
         {
             "symbol": "036460",
-            "name": "한국가스공",
+            "name": "한국가스공사",
             "price": 37850,
             "supply": {
                 "individual": 11,
@@ -2907,7 +2907,7 @@
         },
         {
             "symbol": "036620",
-            "name": "감성코퍼레",
+            "name": "감성코퍼레이션",
             "price": 6240,
             "supply": {
                 "individual": 24,
@@ -2951,7 +2951,7 @@
         },
         {
             "symbol": "036830",
-            "name": "솔브레인홀",
+            "name": "솔브레인홀딩스",
             "price": 71200,
             "supply": {
                 "individual": 19,
@@ -2973,7 +2973,7 @@
         },
         {
             "symbol": "036930",
-            "name": "주성엔지니",
+            "name": "주성엔지니어링",
             "price": 127600,
             "supply": {
                 "individual": 17,
@@ -2995,7 +2995,7 @@
         },
         {
             "symbol": "039030",
-            "name": "이오테크닉",
+            "name": "이오테크닉스",
             "price": 479000,
             "supply": {
                 "individual": 13,
@@ -3061,7 +3061,7 @@
         },
         {
             "symbol": "041190",
-            "name": "우리기술투",
+            "name": "우리기술투자",
             "price": 6980,
             "supply": {
                 "individual": 18,
@@ -3083,7 +3083,7 @@
         },
         {
             "symbol": "041440",
-            "name": "현대에버다",
+            "name": "현대에버다임",
             "price": 9100,
             "supply": {
                 "individual": 6,
@@ -3237,7 +3237,7 @@
         },
         {
             "symbol": "047050",
-            "name": "포스코인터",
+            "name": "포스코인터내셔널",
             "price": 83600,
             "supply": {
                 "individual": 10,
@@ -3259,7 +3259,7 @@
         },
         {
             "symbol": "047810",
-            "name": "한국항공우",
+            "name": "한국항공우주",
             "price": 176600,
             "supply": {
                 "individual": 20,
@@ -3347,7 +3347,7 @@
         },
         {
             "symbol": "051900",
-            "name": "LG생활건",
+            "name": "LG생활건강",
             "price": 267500,
             "supply": {
                 "individual": 15,
@@ -3523,7 +3523,7 @@
         },
         {
             "symbol": "056190",
-            "name": "에스에프에",
+            "name": "에스에프에이",
             "price": 32100,
             "supply": {
                 "individual": 13,
@@ -3611,7 +3611,7 @@
         },
         {
             "symbol": "060250",
-            "name": "NHN K",
+            "name": "NHN KCP",
             "price": 21300,
             "supply": {
                 "individual": 7,
@@ -3655,7 +3655,7 @@
         },
         {
             "symbol": "060370",
-            "name": "LS마린솔",
+            "name": "LS마린솔루션",
             "price": 50100,
             "supply": {
                 "individual": 14,
@@ -3721,7 +3721,7 @@
         },
         {
             "symbol": "064400",
-            "name": "LG씨엔에",
+            "name": "LG씨엔에스",
             "price": 67000,
             "supply": {
                 "individual": 19,
@@ -3765,7 +3765,7 @@
         },
         {
             "symbol": "065350",
-            "name": "신성델타테",
+            "name": "신성델타테크",
             "price": 56700,
             "supply": {
                 "individual": 19,
@@ -3853,7 +3853,7 @@
         },
         {
             "symbol": "067310",
-            "name": "하나마이크",
+            "name": "하나마이크론",
             "price": 43500,
             "supply": {
                 "individual": 15,
@@ -3897,7 +3897,7 @@
         },
         {
             "symbol": "068760",
-            "name": "셀트리온제",
+            "name": "셀트리온제약",
             "price": 54700,
             "supply": {
                 "individual": 23,
@@ -3919,7 +3919,7 @@
         },
         {
             "symbol": "069260",
-            "name": "TKG휴켐",
+            "name": "TKG휴켐스",
             "price": 18020,
             "supply": {
                 "individual": 18,
@@ -3941,7 +3941,7 @@
         },
         {
             "symbol": "069500",
-            "name": "kdx20",
+            "name": "kdx200",
             "price": 113270,
             "supply": {
                 "individual": 15,
@@ -4007,7 +4007,7 @@
         },
         {
             "symbol": "071050",
-            "name": "한국금융지",
+            "name": "한국금융지주",
             "price": 291500,
             "supply": {
                 "individual": 18,
@@ -4029,7 +4029,7 @@
         },
         {
             "symbol": "071320",
-            "name": "지역난방공",
+            "name": "지역난방공사",
             "price": 73600,
             "supply": {
                 "individual": 24,
@@ -4051,7 +4051,7 @@
         },
         {
             "symbol": "071970",
-            "name": "HD현대마",
+            "name": "HD현대마린엔진",
             "price": 100100,
             "supply": {
                 "individual": 10,
@@ -4117,7 +4117,7 @@
         },
         {
             "symbol": "078600",
-            "name": "대주전자재",
+            "name": "대주전자재료",
             "price": 158600,
             "supply": {
                 "individual": 16,
@@ -4183,7 +4183,7 @@
         },
         {
             "symbol": "079550",
-            "name": "LIG넥스",
+            "name": "LIG넥스원",
             "price": 979000,
             "supply": {
                 "individual": 11,
@@ -4293,7 +4293,7 @@
         },
         {
             "symbol": "083650",
-            "name": "비에이치아",
+            "name": "비에이치아이",
             "price": 98800,
             "supply": {
                 "individual": 22,
@@ -4359,7 +4359,7 @@
         },
         {
             "symbol": "086280",
-            "name": "현대글로비",
+            "name": "현대글로비스",
             "price": 220000,
             "supply": {
                 "individual": 19,
@@ -4425,7 +4425,7 @@
         },
         {
             "symbol": "086790",
-            "name": "하나금융지",
+            "name": "하나금융지주",
             "price": 125500,
             "supply": {
                 "individual": 11,
@@ -4535,7 +4535,7 @@
         },
         {
             "symbol": "090430",
-            "name": "아모레퍼시",
+            "name": "아모레퍼시픽",
             "price": 130000,
             "supply": {
                 "individual": 19,
@@ -4579,7 +4579,7 @@
         },
         {
             "symbol": "094360",
-            "name": "칩스앤미디",
+            "name": "칩스앤미디어",
             "price": 19200,
             "supply": {
                 "individual": 12,
@@ -4689,7 +4689,7 @@
         },
         {
             "symbol": "096770",
-            "name": "SK이노베",
+            "name": "SK이노베이션",
             "price": 146700,
             "supply": {
                 "individual": 8,
@@ -4711,7 +4711,7 @@
         },
         {
             "symbol": "097950",
-            "name": "CJ제일제",
+            "name": "CJ제일제당",
             "price": 230000,
             "supply": {
                 "individual": 6,
@@ -4777,7 +4777,7 @@
         },
         {
             "symbol": "101490",
-            "name": "에스앤에스",
+            "name": "에스앤에스텍",
             "price": 93800,
             "supply": {
                 "individual": 15,
@@ -4975,7 +4975,7 @@
         },
         {
             "symbol": "114800",
-            "name": "kdx인버",
+            "name": "kdx인버스",
             "price": 1181,
             "supply": {
                 "individual": 18,
@@ -5041,7 +5041,7 @@
         },
         {
             "symbol": "122870",
-            "name": "와이지엔터",
+            "name": "와이지엔터테인먼트",
             "price": 51300,
             "supply": {
                 "individual": 24,
@@ -5151,7 +5151,7 @@
         },
         {
             "symbol": "137310",
-            "name": "에스디바이",
+            "name": "에스디바이오센서",
             "price": 7930,
             "supply": {
                 "individual": 15,
@@ -5195,7 +5195,7 @@
         },
         {
             "symbol": "138040",
-            "name": "메리츠금융",
+            "name": "메리츠금융지주",
             "price": 111600,
             "supply": {
                 "individual": 15,
@@ -5239,7 +5239,7 @@
         },
         {
             "symbol": "138930",
-            "name": "BNK금융",
+            "name": "BNK금융지주",
             "price": 18130,
             "supply": {
                 "individual": 16,
@@ -5305,7 +5305,7 @@
         },
         {
             "symbol": "140860",
-            "name": "파크시스템",
+            "name": "파크시스템스",
             "price": 318000,
             "supply": {
                 "individual": 13,
@@ -5327,7 +5327,7 @@
         },
         {
             "symbol": "141080",
-            "name": "리가켐바이",
+            "name": "리가켐바이오",
             "price": 176800,
             "supply": {
                 "individual": 18,
@@ -5393,7 +5393,7 @@
         },
         {
             "symbol": "160190",
-            "name": "하이젠알앤",
+            "name": "하이젠알앤엠",
             "price": 42800,
             "supply": {
                 "individual": 12,
@@ -5415,7 +5415,7 @@
         },
         {
             "symbol": "161390",
-            "name": "한국타이어",
+            "name": "한국타이어앤테크놀로지",
             "price": 59500,
             "supply": {
                 "individual": 21,
@@ -5481,7 +5481,7 @@
         },
         {
             "symbol": "166090",
-            "name": "하나머티리",
+            "name": "하나머티리얼즈",
             "price": 80700,
             "supply": {
                 "individual": 11,
@@ -5525,7 +5525,7 @@
         },
         {
             "symbol": "175330",
-            "name": "JB금융지",
+            "name": "JB금융지주",
             "price": 26550,
             "supply": {
                 "individual": 25,
@@ -5679,7 +5679,7 @@
         },
         {
             "symbol": "189300",
-            "name": "인텔리안테",
+            "name": "인텔리안테크",
             "price": 153600,
             "supply": {
                 "individual": 15,
@@ -5701,7 +5701,7 @@
         },
         {
             "symbol": "192080",
-            "name": "더블유게임",
+            "name": "더블유게임즈",
             "price": 58900,
             "supply": {
                 "individual": 9,
@@ -5789,7 +5789,7 @@
         },
         {
             "symbol": "199820",
-            "name": "제일일렉트",
+            "name": "제일일렉트린",
             "price": 19350,
             "supply": {
                 "individual": 14,
@@ -5811,7 +5811,7 @@
         },
         {
             "symbol": "200130",
-            "name": "콜마비앤에",
+            "name": "콜마비앤에이치",
             "price": 11020,
             "supply": {
                 "individual": 21,
@@ -5877,7 +5877,7 @@
         },
         {
             "symbol": "207940",
-            "name": "삼성바이오",
+            "name": "삼성바이오로직스",
             "price": 1480000,
             "supply": {
                 "individual": 20,
@@ -5899,7 +5899,7 @@
         },
         {
             "symbol": "213420",
-            "name": "덕산네오룩",
+            "name": "덕산네오룩스",
             "price": 52500,
             "supply": {
                 "individual": 16,
@@ -5965,7 +5965,7 @@
         },
         {
             "symbol": "214430",
-            "name": "아이쓰리시",
+            "name": "아이쓰리시스템",
             "price": 102900,
             "supply": {
                 "individual": 20,
@@ -6009,7 +6009,7 @@
         },
         {
             "symbol": "215200",
-            "name": "메가스터디",
+            "name": "메가스터디교육",
             "price": 44850,
             "supply": {
                 "individual": 17,
@@ -6229,7 +6229,7 @@
         },
         {
             "symbol": "241710",
-            "name": "코스메카코",
+            "name": "코스메카코리아",
             "price": 76900,
             "supply": {
                 "individual": 23,
@@ -6251,7 +6251,7 @@
         },
         {
             "symbol": "247540",
-            "name": "에코프로비",
+            "name": "에코프로비엠",
             "price": 228500,
             "supply": {
                 "individual": 17,
@@ -6317,7 +6317,7 @@
         },
         {
             "symbol": "253450",
-            "name": "스튜디오드",
+            "name": "스튜디오드래곤",
             "price": 33950,
             "supply": {
                 "individual": 25,
@@ -6427,7 +6427,7 @@
         },
         {
             "symbol": "267260",
-            "name": "HD현대일",
+            "name": "HD현대일렉트릭",
             "price": 1389000,
             "supply": {
                 "individual": 13,
@@ -6515,7 +6515,7 @@
         },
         {
             "symbol": "272290",
-            "name": "이녹스첨단",
+            "name": "이녹스첨단소재",
             "price": 36000,
             "supply": {
                 "individual": 14,
@@ -6537,7 +6537,7 @@
         },
         {
             "symbol": "277810",
-            "name": "레인보우로",
+            "name": "레인보우로보틱스",
             "price": 702000,
             "supply": {
                 "individual": 24,
@@ -6625,7 +6625,7 @@
         },
         {
             "symbol": "282330",
-            "name": "BGF리테",
+            "name": "BGF리테일",
             "price": 129100,
             "supply": {
                 "individual": 9,
@@ -6669,7 +6669,7 @@
         },
         {
             "symbol": "290650",
-            "name": "엘앤씨바이",
+            "name": "엘앤씨바이오",
             "price": 63200,
             "supply": {
                 "individual": 22,
@@ -6691,7 +6691,7 @@
         },
         {
             "symbol": "293490",
-            "name": "카카오게임",
+            "name": "카카오게임즈",
             "price": 11620,
             "supply": {
                 "individual": 18,
@@ -6735,7 +6735,7 @@
         },
         {
             "symbol": "298050",
-            "name": "HS효성첨",
+            "name": "HS효성첨단소재",
             "price": 258500,
             "supply": {
                 "individual": 16,
@@ -6757,7 +6757,7 @@
         },
         {
             "symbol": "298380",
-            "name": "에이비엘바",
+            "name": "에이비엘바이오",
             "price": 127600,
             "supply": {
                 "individual": 20,
@@ -6801,7 +6801,7 @@
         },
         {
             "symbol": "302440",
-            "name": "SK바이오",
+            "name": "SK바이오사이언스",
             "price": 44100,
             "supply": {
                 "individual": 20,
@@ -6845,7 +6845,7 @@
         },
         {
             "symbol": "307950",
-            "name": "현대오토에",
+            "name": "현대오토에버",
             "price": 441000,
             "supply": {
                 "individual": 17,
@@ -6889,7 +6889,7 @@
         },
         {
             "symbol": "317330",
-            "name": "덕산테코피",
+            "name": "덕산테코피아",
             "price": 26600,
             "supply": {
                 "individual": 15,
@@ -6977,7 +6977,7 @@
         },
         {
             "symbol": "326030",
-            "name": "SK바이오",
+            "name": "SK바이오팜",
             "price": 98500,
             "supply": {
                 "individual": 22,
@@ -7021,7 +7021,7 @@
         },
         {
             "symbol": "329180",
-            "name": "HD현대중",
+            "name": "HD현대중공업",
             "price": 648000,
             "supply": {
                 "individual": 17,
@@ -7065,7 +7065,7 @@
         },
         {
             "symbol": "347850",
-            "name": "디앤디파마",
+            "name": "디앤디파마텍",
             "price": 71900,
             "supply": {
                 "individual": 18,
@@ -7131,7 +7131,7 @@
         },
         {
             "symbol": "352480",
-            "name": "씨앤씨인터",
+            "name": "씨앤씨인터내셔널",
             "price": 27450,
             "supply": {
                 "individual": 20,
@@ -7197,7 +7197,7 @@
         },
         {
             "symbol": "358570",
-            "name": "지아이이노",
+            "name": "지아이이노베이션",
             "price": 15710,
             "supply": {
                 "individual": 14,
@@ -7219,7 +7219,7 @@
         },
         {
             "symbol": "361610",
-            "name": "SK아이이",
+            "name": "SK아이이테크놀로지",
             "price": 26800,
             "supply": {
                 "individual": 16,
@@ -7263,7 +7263,7 @@
         },
         {
             "symbol": "373220",
-            "name": "LG에너지",
+            "name": "LG에너지솔루션",
             "price": 482000,
             "supply": {
                 "individual": 13,
@@ -7329,7 +7329,7 @@
         },
         {
             "symbol": "383310",
-            "name": "에코프로에",
+            "name": "에코프로에이치엔",
             "price": 32650,
             "supply": {
                 "individual": 22,
@@ -7351,7 +7351,7 @@
         },
         {
             "symbol": "388720",
-            "name": "유일로보틱",
+            "name": "유일로보틱스",
             "price": 101200,
             "supply": {
                 "individual": 19,
@@ -7439,7 +7439,7 @@
         },
         {
             "symbol": "417200",
-            "name": "LS머트리",
+            "name": "LS머트리얼즈",
             "price": 30200,
             "supply": {
                 "individual": 16,
@@ -7483,7 +7483,7 @@
         },
         {
             "symbol": "443060",
-            "name": "HD현대마",
+            "name": "HD현대마린솔루션",
             "price": 260500,
             "supply": {
                 "individual": 15,
@@ -7505,7 +7505,7 @@
         },
         {
             "symbol": "450080",
-            "name": "에코프로머",
+            "name": "에코프로머티",
             "price": 83200,
             "supply": {
                 "individual": 17,
@@ -7527,7 +7527,7 @@
         },
         {
             "symbol": "454910",
-            "name": "두산로보틱",
+            "name": "두산로보틱스",
             "price": 104700,
             "supply": {
                 "individual": 14,
@@ -7549,7 +7549,7 @@
         },
         {
             "symbol": "457190",
-            "name": "이수스페셜",
+            "name": "이수스페셜티케미컬",
             "price": 121800,
             "supply": {
                 "individual": 15,
