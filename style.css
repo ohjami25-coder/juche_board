@@ -1,0 +1,104 @@
+:root {
+            --bg-color: #f5f7fa;
+            --card-bg: #ffffff;
+            --primary-text: #2d3436;
+            --sub-text: #636e72;
+            --foreign-color: #d63031; /* 외국인: 레드 */
+            --inst-color: #0984e3;    /* 기관: 블루 */
+            --up-color: #e84118;
+            --down-color: #0097e6;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 15px;
+            color: var(--primary-text);
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 0 5px;
+        }
+
+        h1 { font-size: 1.2rem; margin: 0; }
+        .update-time { font-size: 0.8rem; color: var(--sub-text); }
+
+        /* 카드 컨테이너: 모바일 1열, 태블릿 이상 2열 */
+        #dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 15px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            border-left: 5px solid #dfe6e9;
+        }
+
+        /* 외인/기관 동반 매수 시 카드 강조 */
+        .card.hot { border-left-color: #fdcb6e; background: #fffdf5; }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+
+        .stock-name { font-weight: bold; font-size: 1.1rem; }
+        .stock-symbol { font-size: 0.8rem; color: var(--sub-text); }
+        .current-price { font-weight: bold; font-size: 1rem; }
+
+        /* 수익률 섹션 */
+        .returns-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 15px;
+            background: #f9f9f9;
+            padding: 8px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .return-item label { display: block; font-size: 0.7rem; color: var(--sub-text); }
+        .return-val { font-size: 0.9rem; font-weight: 600; }
+        .plus { color: var(--up-color); }
+        .minus { color: var(--down-color); }
+
+        /* 수급 현황 섹션 */
+        .supply-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .supply-box {
+            padding: 8px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+        }
+
+        .foreign-box { background: rgba(214, 48, 49, 0.05); border: 1px solid rgba(214, 48, 49, 0.1); }
+        .inst-box { background: rgba(9, 132, 227, 0.05); border: 1px solid rgba(9, 132, 227, 0.1); }
+
+        .label { font-size: 0.75rem; font-weight: bold; margin-bottom: 4px; display: block; }
+        .consecutive { font-weight: bold; font-size: 0.95rem; color: #2d3436; }
+        .total-days { font-size: 0.8rem; color: var(--sub-text); }
+
+        .badge {
+            font-size: 0.7rem;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-left: 4px;
+            background: #eee;
+        }
+        .badge-hot { background: #ffeaa7; color: #d35400; }
