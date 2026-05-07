@@ -24,7 +24,7 @@ jobs:
         pip install pandas selenium webdriver-manager openpyxl lxml
 
     - name: Run analysis script
-      run: juche.py  # 실행할 파이썬 파일명 확인 필수
+      run: python juche.py  # 실행할 파이썬 파일명 확인 필수
 
     - name: Commit and Push changes
       run: |
